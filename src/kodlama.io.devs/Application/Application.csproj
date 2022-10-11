@@ -7,9 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Features\Auths\Profiles\" />
     <Folder Include="Features\Languages\Constants\" />
     <Folder Include="Features\Languages\Rules\" />
-    <Folder Include="Services\Repositories\" />
   </ItemGroup>
 	<ItemGroup>
 		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
